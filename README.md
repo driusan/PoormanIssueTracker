@@ -1,7 +1,7 @@
 # Poor Man's Issue Tracker
 
 This is a poor man's issue tracker. It's a loosely defined set of conventions
-for using the filesystem as an issue tracker. Tools can be written to write
+for using the filesystem as an issue tracker. Tools ([such as these](https://github.com/driusan/IssueTrackerTools)) can be written to write
 or read or write directories following this convention. Track the whole thing
 with git, and you can call it a distributed issue tracker.
 
